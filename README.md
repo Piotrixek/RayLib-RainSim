@@ -1,2 +1,4 @@
 # RayLib-RainSim
-Example
+
+
+![rain image](./rainsim.png)
